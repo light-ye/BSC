@@ -1,0 +1,291 @@
+body{
+    border: 10px solid aliceblue;
+    box-sizing: border-box;
+    padding-left: 70px;
+    padding-right: 50px;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-family: 楷体;
+}
+.fixed-size{
+    width: 960px;
+    background-color: black;
+}
+.table1{
+    border-collapse: collapse;
+    background-color: white;
+}
+.text1{
+    font-family: 楷体;
+    font-weight: 680;
+    position: relative;
+    bottom: -43px;
+    right: -43px;
+}
+.one{
+    border: 1px solid black;
+}
+.black{
+    background-color: black;
+}
+.table2{
+    cursor: move;
+    position: absolute;
+    top: 122px;
+    left: 590px;
+    border-collapse: collapse;
+    background-color: white;
+}
+.table3{
+    cursor: move;
+    position: absolute;
+    top: 130px;
+    left: 853px;
+    width: 100px;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+}
+.go{
+    background-color: white;
+    text-align: center;
+}
+.black1{
+    background-color: black;
+    border: 1px solid black;
+}
+.table4{
+    cursor: move;
+    position: absolute;
+    top: 200px;
+    left: 590px;
+}
+.table41{
+    background-color: brown;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+.table5{
+    position: absolute;
+    top: 200px;
+    left: 720px;
+}
+.table51{
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+.table6{
+    cursor: move;
+    position: absolute;
+    top: 200px;
+    left: 850px;
+}
+.table61{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+.table7{
+    cursor: move;
+    position: absolute;
+    top: 295px;
+    left: 590px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table8{
+    cursor: move;
+    position: absolute;
+    top: 295px;
+    left: 690px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table9{
+    cursor: move;
+    position: absolute;
+    top: 295px;
+    left: 790px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table10{
+    cursor: move;
+    position: absolute;
+    top: 295px;
+    left: 890px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table11{
+    cursor: move;
+    position: absolute;
+    top: 350px;
+    left: 590px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table12{
+    cursor: move;
+    position: absolute;
+    top: 350px;
+    left: 690px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table13{
+    cursor: move;
+    position: absolute;
+    top: 350px;
+    left: 790px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.table14{
+    cursor: move;
+    position: absolute;
+    top: 350px;
+    left: 890px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
+.lian1{
+    color: red;
+}
+.lian{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 590px;
+    background-color:rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.tan{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 651px;
+    background-color:rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.ju{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 712px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.xiang{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 773px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.tong{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 834px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.liang{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 895px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.yin{
+    cursor: move;
+    position: absolute;
+    top: 405px;
+    left: 956px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.wu{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 590px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.sha{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 651px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.fu{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 712px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.yang{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 773px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.zi{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 834px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.po{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 895px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.ji{
+    cursor: move;
+    position: absolute;
+    top: 460px;
+    left: 956px;
+    background-color: rgba(255, 255, 255, 0.813);
+    border: 1px solid black;
+}
+.tiangan{
+    cursor: move;
+    position: absolute;
+    top: 515px;
+    left: 590px;
+    background-color: white;
+    border: 1px solid rgba(6, 11, 7,0.3);;
+    color: black;
+}
+
+
